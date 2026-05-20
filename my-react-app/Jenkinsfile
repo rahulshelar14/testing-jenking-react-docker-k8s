@@ -12,7 +12,7 @@ pipeline {
             steps {
 
                 git branch: 'master',
-                    url: 'https://github.com/thejungwon/docker-reactjs.git'
+                    url: 'https://github.com/rahulshelar14/testing-jenking-react-docker-k8s.git'
             }
         }
 
