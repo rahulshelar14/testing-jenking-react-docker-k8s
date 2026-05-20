@@ -3,8 +3,8 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "shelarrahul1415/react-app"
-        IMAGE_TAG = "latest"
+        IMAGE_NAME = "shelarrahul1415/react-app-development"
+        IMAGE_TAG = "DEVELOPMENT"
     }
 
     stages {
