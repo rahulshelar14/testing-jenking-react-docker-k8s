@@ -11,7 +11,7 @@ pipeline {
         stage('Checkout') {
             steps {
 
-                git branch: 'master',
+                git branch: 'main',
                     url: 'https://github.com/rahulshelar14/testing-jenking-react-docker-k8s.git'
             }
         }
