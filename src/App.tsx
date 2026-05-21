@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Welcome to React pipeline is configured</h1>
+        <h1>Welcome to React pipeline is configured🛒❌</h1>
       </div>
     </>
   );
